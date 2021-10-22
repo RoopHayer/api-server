@@ -10,7 +10,7 @@ Creating a server with database for CRUD app.
 
 ## Links to Application Deployment
 
-[Heroku](*)
+[Heroku](https://roop-api-server.herokuapp.com/)
 
 [Actions Page](https://github.com/RoopHayer/api-server/actions/new)
 
